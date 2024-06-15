@@ -1,2 +1,2 @@
 # The-2019-Stack-Overflow-Developer-Survey-Results
-Thus is my Capstone Project
+This is my Capstone Project
